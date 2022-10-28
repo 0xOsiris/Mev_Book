@@ -1,9 +1,5 @@
 # The Mev Book
 
-# Brief Overview 
-
-This repository is meant to serve as a conglomeration resources that offer insightful and detailed explanations of the core concepts in MEV. There seems to be extreme variability in the quality of resources on the topic. Ideally this repository can create a focal point of quality information on the topic of Cfmms and Mev as well as the most advanced strategies/tools/research in the ecosystem to date.
-
 ## CFMM Basics
 ### Readings: </br>
 [Uniswap V2 Architecture](https://uniswap.org/whitepaper.pdf) </br>
