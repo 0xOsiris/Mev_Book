@@ -10,7 +10,7 @@ This repository is meant to serve as a conglomeration resources that offer insig
 [Uniswap V3 Architecture](https://uniswap.org/whitepaper-v3.pdf) </br>
 [**A highly in depth look into Uniswap V3**](https://uniswapv3book.com) </br>
 [Uniswap V3 Flash Swaps](https://medium.com/coinmonks/tutorial-of-flash-swaps-of-uniswap-v3-73c0c846b822) </br>
-[**SoK:DEXs with AMM Protocols**](https://arxiv.org/pdf/2103.12732.pdf) </br>
+
 
 ### Videos: </br>
 [Simple swap v2](https://www.youtube.com/watch?v=qB2Ulx201wY) </br>
@@ -35,5 +35,10 @@ This repository is meant to serve as a conglomeration resources that offer insig
 
 ## Alpha Research
 [SMT-Solver-Heuristic Search for Profitable Pathing & Bellman Ford Negative Cycle Detection Arbitrage](https://arxiv.org/pdf/2103.02228.pdf) </br>
-[Optimal Routing on CFMMs - Lagrangian Constrained Optimization](https://angeris.github.io/papers/cfmm-routing.pdf) </br>
+[**Optimal Routing on CFMMs - Lagrangian Constrained Optimization**](https://angeris.github.io/papers/cfmm-routing.pdf) </br>
+[Optimal Arbitrage - Formalizing Convex Optimization](https://angeris.github.io/papers/uniswap_analysis.pdf) </br>
+[Multi Asset Trade - Convex Optimization](https://angeris.github.io/papers/cfmm-chapter.pdf) </br>
+[Optimal Trading Model - CPMMs/CFMMs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4144743) </br>
+[**SoK:DEXs with AMM Protocols**](https://arxiv.org/pdf/2103.12732.pdf) </br>
+
 
