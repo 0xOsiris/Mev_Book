@@ -15,38 +15,31 @@
   
  </div>
 
-## CFMM Basics
-### Readings: </br>
-[Uniswap V2 Architecture](https://uniswap.org/whitepaper.pdf) </br>
-[Uniswap V3 Architecture](https://uniswap.org/whitepaper-v3.pdf) </br>
-[**A highly in depth look into Uniswap V3**](https://uniswapv3book.com) </br>
-[Uniswap V3 Flash Swaps](https://medium.com/coinmonks/tutorial-of-flash-swaps-of-uniswap-v3-73c0c846b822) </br>
-
-
-### Videos: </br>
-[Simple swap v2](https://www.youtube.com/watch?v=qB2Ulx201wY) </br>
-[Flash swaps v2](https://www.youtube.com/watch?v=MxTgk-kvtRM) </br>
-[V3 Tick Math](https://www.youtube.com/watch?v=p7LIEr8hVCA) </br>
-[V3 Pricing](https://www.youtube.com/watch?v=hKhdQl126Ys) </br>
-
-
-### Solidity Examples: </br>
-[V3 Flash Swap Example](https://github.com/yuichiroaoki/flash-swap-example) </br>
-[V2 Flash Swap Example](https://solidity-by-example.org/defi/uniswap-v2-flash-swap/) </br>
+## CFMM Funamentals
+[Uniswap V2 Whitepaper (text)](https://uniswap.org/whitepaper.pdf) </br>
+[Uniswap V3 Whitepaper (text)](https://uniswap.org/whitepaper-v3.pdf) </br>
+[**A highly in depth look into Uniswap V3** (text)](https://uniswapv3book.com) </br>
+[Uniswap V3 Flash Swaps (text)](https://medium.com/coinmonks/tutorial-of-flash-swaps-of-uniswap-v3-73c0c846b822) </br>
+[Simple swap v2 (video)](https://www.youtube.com/watch?v=qB2Ulx201wY) </br>
+[Flash swaps v2 (video)](https://www.youtube.com/watch?v=MxTgk-kvtRM) </br>
+[V3 Tick Math (video)](https://www.youtube.com/watch?v=p7LIEr8hVCA) </br>
+[V3 Pricing (video)](https://www.youtube.com/watch?v=hKhdQl126Ys) </br>
+[V3 Flash Swap Example (source)](https://github.com/yuichiroaoki/flash-swap-example) </br>
+[V2 Flash Swap Example (source)](https://solidity-by-example.org/defi/uniswap-v2-flash-swap/) </br>
 
 
 ## Relayers/Obfuscation
-[MEV-Boost (Flashbots Relayer)](https://github.com/flashbots/mev-boost) </br>
+[MEV-Boost (Flashbots Relayer) (source)](https://github.com/flashbots/mev-boost) </br>
 
-## Open source Libraries
-[V2/V3 Fixed Point Math Library Pricing/Simulation/Quoting Solidity](https://github.com/0xOsiris/cfmm-math-libraries) </br>
-[Pair Sync - Rust Program to sync all Dex Pairs and Reserves](https://github.com/0xKitsune/pair_sync) </br>
-[Simple Arbitrage - Flashbots Arbitrage Basic Template Typescript/Solidity](https://github.com/flashbots/simple-arbitrage) </br>
-[CFMM Routing - Convex Optimization Full Example Python](https://github.com/angeris/cfmm-routing-code) </br>
-[Go-z3 - Go bindings to Z3 SMT Solver](https://github.com/mitchellh/go-z3) </br>
-[Rust-z3 - Rust bindings to Z3 SMT Solver](https://github.com/prove-rs/z3.rs) </br>
+## Bot Libraries
+[V2/V3 Fixed Point Math Library Pricing/Simulation/Quoting Solidity (source)](https://github.com/0xOsiris/cfmm-math-libraries) </br>
+[Pair Sync - Rust Program to sync all Dex Pairs and Reserves (source)](https://github.com/0xKitsune/pair_sync) </br>
+[Simple Arbitrage - Flashbots Arbitrage Basic Template Typescript/Solidity (source)](https://github.com/flashbots/simple-arbitrage) </br>
+[CFMM Routing - Convex Optimization Full Example Python (source)](https://github.com/angeris/cfmm-routing-code) </br>
+[Go-z3 - Go bindings to Z3 SMT Solver (source)](https://github.com/mitchellh/go-z3) </br>
+[Rust-z3 - Rust bindings to Z3 SMT Solver (source)](https://github.com/prove-rs/z3.rs) </br>
 
-## Research
+## Alpha Research
 [SMT-Solver-Heuristic Search for Profitable Pathing & Bellman Ford Negative Cycle Detection Arbitrage](https://arxiv.org/pdf/2103.02228.pdf) </br>
 [**Optimal Routing on CFMMs - Lagrangian Constrained Optimization**](https://angeris.github.io/papers/cfmm-routing.pdf) </br>
 [Optimal Arbitrage - Formalizing Convex Optimization](https://angeris.github.io/papers/uniswap_analysis.pdf) </br>
@@ -68,11 +61,11 @@
 [Escaping The Dark Forest](https://samczsun.com/escaping-the-dark-forest/) </br>
 
 ## Exploitation Strategies
-[Wrecking Sandwich Traders for Fun and Profit](https://github.com/Defi-Cartel/salmonella) </br>
+[Wrecking Sandwich Traders for Fun and Profit (text)](https://github.com/Defi-Cartel/salmonella) </br>
 
 ## Data Collection 
-[Flashbots mev-inspect-py](https://github.com/flashbots/mev-inspect-py) </br>
-[Flashbots mev-inspect-rs](https://github.com/flashbots/mev-inspect-rs) </br>
+[Flashbots mev-inspect-py (source)](https://github.com/flashbots/mev-inspect-py) </br>
+[Flashbots mev-inspect-rs (source)](https://github.com/flashbots/mev-inspect-rs) </br>
 
 ## Mev Job Board 
 [**Flashbots Mev Job Board**](https://github.com/flashbots/mev-job-board) </br>
