@@ -29,4 +29,5 @@ This repository is meant to serve as a conglomeration resources that offer insig
 [V2/V3 Fixed Point Math Library Pricing/Simulation/Quoting Solidity](https://github.com/0xOsiris/cfmm-math-libraries) </br>
 [Pair Sync - Rust Program to sync all Dex Pairs and Reserves](https://github.com/0xKitsune/pair_sync) </br>
 [Simple Arbitrage - Flashbots Arbitrage Basic Template Typescript/Solidity](https://github.com/flashbots/simple-arbitrage) </br>
+[Uniswap V3 Core - Math libraries](https://github.com/Uniswap/v3-core/tree/main/contracts/libraries) </br>
 
