@@ -38,6 +38,8 @@ This repository is meant to serve as a conglomeration resources that offer insig
 [**Optimal Routing on CFMMs - Lagrangian Constrained Optimization**](https://angeris.github.io/papers/cfmm-routing.pdf) </br>
 [Optimal Arbitrage - Formalizing Convex Optimization](https://angeris.github.io/papers/uniswap_analysis.pdf) </br>
 [Multi Asset Trade - Convex Optimization](https://angeris.github.io/papers/cfmm-chapter.pdf) </br>
+[Bundle Profit Maximization](https://angeris.github.io/papers/flashbots-mev.pdf) </br>
+[CFMM Routing - Convex Optimization Methodological Overview](https://bcc-research.github.io/CFMMRouter.jl/dev/) </br>
 [Optimal Trading Model - CPMMs/CFMMs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4144743) </br>
 [**SoK:DEXs with AMM Protocols**](https://arxiv.org/pdf/2103.12732.pdf) </br>
 
