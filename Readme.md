@@ -71,7 +71,8 @@
 [Wrecking Sandwich Traders for Fun and Profit](https://github.com/Defi-Cartel/salmonella) </br>
 
 ## Data Collection 
-[Flashbots Mev-Inspect](https://github.com/flashbots/mev-inspect-py) </br>
+[Flashbots mev-inspect-py](https://github.com/flashbots/mev-inspect-py) </br>
+[Flashbots mev-inspect-rs](https://github.com/flashbots/mev-inspect-rs) </br>
 
 ## Mev Job Board 
 [**Flashbots Mev Job Board**](https://github.com/flashbots/mev-job-board) </br>
