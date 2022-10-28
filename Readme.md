@@ -33,3 +33,7 @@ This repository is meant to serve as a conglomeration resources that offer insig
 [Simple Arbitrage - Flashbots Arbitrage Basic Template Typescript/Solidity](https://github.com/flashbots/simple-arbitrage) </br>
 [Uniswap V3 Core - Math libraries](https://github.com/Uniswap/v3-core/tree/main/contracts/libraries) </br>
 
+## Alpha Research
+[SMT-Solver-Heuristic Search for Profitable Pathing & Bellman Ford Negative Cycle Detection Arbitrage](https://arxiv.org/pdf/2103.02228.pdf) </br>
+[Optimal Routing on CFMMs - Lagrangian Constrained Optimization](https://angeris.github.io/papers/cfmm-routing.pdf) </br>
+
