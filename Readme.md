@@ -52,4 +52,4 @@ This repository is meant to serve as a conglomeration resources that offer insig
 
 ## Informational 
 [Flashbots Mev Job Board](https://github.com/flashbots/mev-job-board) </br>
-
+[Aave Protocol Liquidations](https://docs.aave.com/developers/v/1.0/tutorials/liquidations) </br>
