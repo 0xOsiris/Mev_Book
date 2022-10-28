@@ -32,6 +32,7 @@ This repository is meant to serve as a conglomeration resources that offer insig
 [Pair Sync - Rust Program to sync all Dex Pairs and Reserves](https://github.com/0xKitsune/pair_sync) </br>
 [Simple Arbitrage - Flashbots Arbitrage Basic Template Typescript/Solidity](https://github.com/flashbots/simple-arbitrage) </br>
 [Uniswap V3 Core - Math libraries](https://github.com/Uniswap/v3-core/tree/main/contracts/libraries) </br>
+[CFMM Routing - Convex Optimization Full Example Python](https://github.com/angeris/cfmm-routing-code) </br>
 
 ## Alpha Research
 [SMT-Solver-Heuristic Search for Profitable Pathing & Bellman Ford Negative Cycle Detection Arbitrage](https://arxiv.org/pdf/2103.02228.pdf) </br>
