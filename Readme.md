@@ -11,7 +11,7 @@ This repository is meant to serve as a conglomeration resources that offer insig
 [Uniswap V3 Architecture](https://uniswap.org/whitepaper-v3.pdf) </br>
 [**A highly in depth look into Uniswap V3**](https://uniswapv3book.com) </br>
 [Uniswap V3 Flash Swaps](https://medium.com/coinmonks/tutorial-of-flash-swaps-of-uniswap-v3-73c0c846b822) </br>
-[**SoK:DEXs with Automated AMM Protocols**](https://arxiv.org/pdf/2103.12732.pdf) </br>
+[**SoK:DEXs with AMM Protocols**](https://arxiv.org/pdf/2103.12732.pdf) </br>
 
 
 ### Videos: </br>
