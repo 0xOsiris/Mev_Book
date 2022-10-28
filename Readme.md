@@ -56,7 +56,8 @@ This repository is meant to serve as a conglomeration resources that offer insig
 
 ## Articles
 [Ethereum Backrunning](https://amanusk.medium.com/the-fastest-draw-on-the-blockchain-bzrx-example-6bd19fabdbe1) </br>
-
+[Ethereum is a Dark Forest](https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest) </br>
+[Escaping The Dark Forest](https://samczsun.com/escaping-the-dark-forest/) </br>
 
 ## Informational 
 [**Flashbots Mev Job Board**](https://github.com/flashbots/mev-job-board) </br>
