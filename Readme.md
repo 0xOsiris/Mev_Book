@@ -1,4 +1,4 @@
-<div> 
+<div style="align:center"> 
   
 ```              
          .--.                   .---.
@@ -75,4 +75,3 @@
 
 ## Contributions
 If there are any resources you think should be included feel free to PR directly to `main`. All contributions are welcome. 
-
