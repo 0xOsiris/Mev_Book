@@ -1,4 +1,16 @@
-# The Mev Book
+``` 
+                
+                                       .--.                   .---.
+                                   .---|__|           .-.     |~~~|
+                                .--|===|--|_ Mev Book |_|     |~~~|--.
+                                |  |===|  |'\     .---!~|  .--|   |--|
+                                |%%|   |  |.'\    |===| |--|%%|   |  |
+                                |%%|   |  |\.'\   |   | |__|  |   |  |
+                                |  |   |  | \  \  |===| |==|  |   |  |
+                                |  |   |__|  \.'\ |   |_|__|  |~~~|__|
+                                |  |===|--|   \.'\|===|~|--|%%|~~~|--|
+                                ^--^---'--^    `-'`---^-^--^--^---'--'
+```
 
 ## CFMM Basics
 ### Readings: </br>
@@ -31,8 +43,6 @@
 [Go-z3 - Go bindings to Z3 SMT Solver](https://github.com/mitchellh/go-z3) </br>
 [Rust-z3 - Rust bindings to Z3 SMT Solver](https://github.com/prove-rs/z3.rs) </br>
 
-
-
 ## Research
 [SMT-Solver-Heuristic Search for Profitable Pathing & Bellman Ford Negative Cycle Detection Arbitrage](https://arxiv.org/pdf/2103.02228.pdf) </br>
 [**Optimal Routing on CFMMs - Lagrangian Constrained Optimization**](https://angeris.github.io/papers/cfmm-routing.pdf) </br>
@@ -60,4 +70,6 @@
 ## Mev Job Board 
 [**Flashbots Mev Job Board**](https://github.com/flashbots/mev-job-board) </br>
 
+## Contributions
+If there are any resources you think should be included feel free to PR directly to `main`. All contributions are welcome. 
 
