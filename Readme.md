@@ -48,6 +48,6 @@ This repository is meant to serve as a conglomeration resources that offer insig
 [Optimal Trading Model - CPMMs/CFMMs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4144743) </br>
 [**SoK:DEXs with AMM Protocols**](https://arxiv.org/pdf/2103.12732.pdf) </br>
 [SMT Based Models - First Order Logical Embeddings in ANNs](https://arxiv.org/pdf/2111.13110.pdf) </br>
-
+[Neural Bellman-Ford Networks - Neural Network Framework for Link Prediction](https://arxiv.org/pdf/2106.06935.pdf) </br>
 
 
