@@ -64,9 +64,10 @@
 ## Exploitation Strategies
 [Wrecking Sandwich Traders for Fun and Profit (text)](https://github.com/Defi-Cartel/salmonella) </br>
 
-## Data Collection 
+## Data Collection & Inspection Tools
 [Flashbots mev-inspect-py (source)](https://github.com/flashbots/mev-inspect-py) </br>
 [Flashbots mev-inspect-rs (source)](https://github.com/flashbots/mev-inspect-rs) </br>
+[Tenderly](https://tenderly.co) </br>
 
 ## Mev Job Board 
 [**Flashbots Mev Job Board**](https://github.com/flashbots/mev-job-board) </br>
