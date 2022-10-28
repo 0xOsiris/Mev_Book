@@ -2,7 +2,7 @@
 
 # Brief Overview 
 
-This repository is meant to serve as a conglomeration resources that offer insightful and detailed explanations of the core concepts in MEV. I am creating this repository because of the extreme variability in the quality of resources on the topic. My hope is to provide a focal point of quality information on the topic of Cfmms and Mev as a whole that would allow an astute reader to go from 0-100 understanding.
+This repository is meant to serve as a conglomeration resources that offer insightful and detailed explanations of the core concepts in MEV. There seems to be extreme variability in the quality of resources on the topic. Ideally this repository can create a focal point of quality information on the topic of Cfmms and Mev as well as the most advanced strategies/tools/research in the ecosystem to date.
 
 # The Fundamentals
 ## CFMM Basics
