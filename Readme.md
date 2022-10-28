@@ -51,5 +51,5 @@ This repository is meant to serve as a conglomeration resources that offer insig
 [Neural Bellman-Ford Networks - Neural Network Framework for Link Prediction](https://arxiv.org/pdf/2106.06935.pdf) </br>
 
 ## Informational 
-[Flashbots Mev Job Board](https://github.com/flashbots/mev-job-board) </br>
+[**Flashbots Mev Job Board**](https://github.com/flashbots/mev-job-board) </br>
 [Aave Protocol Liquidations](https://docs.aave.com/developers/v/1.0/tutorials/liquidations) </br>
