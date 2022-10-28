@@ -48,6 +48,7 @@
 [Quantifying Blockchain Extractable Value: How dark is the forest?](https://arxiv.org/pdf/2101.05511.pdf) </br>
 [An empiracle study of frontrunning](https://arxiv.org/pdf/2102.03347.pdf) </br>
 [High-Frequency Trading on Decentralized On-Chain Exchanges](https://arxiv.org/pdf/2101.05511.pdf) </br>
+[Multi Domain Arbitrage](https://arxiv.org/pdf/2112.01472.pdf) </br>
 [Bundle Profit Maximization](https://angeris.github.io/papers/flashbots-mev.pdf) </br>
 [CFMM Routing - Convex Optimization Methodological Overview](https://bcc-research.github.io/CFMMRouter.jl/dev/) </br>
 [Optimal Trading Model - CPMMs/CFMMs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4144743) </br>
