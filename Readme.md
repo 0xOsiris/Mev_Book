@@ -24,7 +24,7 @@ This repository is meant to serve as a conglomeration resources that offer insig
 [V2 Flash Swap Example](https://solidity-by-example.org/defi/uniswap-v2-flash-swap/) </br>
 
 
-## Tools & Relayers
+## Helpful Libraries & Relayers
 [MEV-Boost (Flashbots Relayer)](https://github.com/flashbots/mev-boost) </br>
 [V2/V3 Fixed Point Math Library Pricing/Simulation/Quoting Solidity](https://github.com/0xOsiris/cfmm-math-libraries) </br>
 [Pair Sync - Rust Program to sync all Dex Pairs and Reserves](https://github.com/0xKitsune/pair_sync) </br>
