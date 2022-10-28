@@ -54,7 +54,10 @@
 [Ethereum is a Dark Forest](https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest) </br>
 [Escaping The Dark Forest](https://samczsun.com/escaping-the-dark-forest/) </br>
 
-## Informational 
+## Exploitation Strategies
+[Wrecking Sandwich Traders for Fun and Profit](https://github.com/Defi-Cartel/salmonella) </br>
+
+## Mev Job Board 
 [**Flashbots Mev Job Board**](https://github.com/flashbots/mev-job-board) </br>
-[Mev Wiki](https://www.mev.wiki) </br>
+
 
