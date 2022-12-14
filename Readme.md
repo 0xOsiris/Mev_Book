@@ -66,7 +66,7 @@
 
 ## 🛠 <a name="tools"></a>Tools 🛠
 * [V2/V3 Fixed Point Math Library Pricing/Simulation/Quoting Solidity (source)](https://github.com/0xOsiris/cfmm-math-libraries) <br/>
-* [Pair Sync - Rust Program to sync all Dex Pairs and Reserves (source)](https://github.com/0xKitsune/pair_sync) 🛠 <br/>
+* [`Cfmms-rs` - The Swiss Army Knife of MEV.. Seriously (source)](https://github.com/0xKitsune/pair_sync) 🛠 <br/>
 * [Simple Arbitrage - Flashbots Arbitrage Basic Template Typescript/Solidity (source)](https://github.com/flashbots/simple-arbitrage) <br/>
 * [CFMM Routing - Convex Optimization Full Example Python (source)](https://github.com/angeris/cfmm-routing-code) 🛠 <br/>
 * [Off-Chain Uniswap V3 Math - Rust (In development)](https://github.com/0xKitsune/uniswap_v3_math)  <br/>
