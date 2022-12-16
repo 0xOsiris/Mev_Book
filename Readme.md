@@ -50,7 +50,7 @@
 ## 🙅‍♂️ <a name="cfmms"></a>CFMMs (CPMMs) 🙅‍♂️
 * [Uniswap V2 Whitepaper (text)](https://uniswap.org/whitepaper.pdf) <br/>
 * [Uniswap V3 Whitepaper (text)](https://uniswap.org/whitepaper-v3.pdf) <br/>
-* [**A highly in depth look into Uniswap V3** (text)](https://uniswapv3book.com) 🙅‍♂️ <br/>
+* [An in depth look into Uniswap V3 (text)](https://uniswapv3book.com) 🙅‍♂️ <br/>
 * [Uniswap V3 Flash Swaps (text)](https://medium.com/coinmonks/tutorial-of-flash-swaps-of-uniswap-v3-73c0c846b822) <br/>
 * [Simple swap v2 (video)](https://www.youtube.com/watch?v=qB2Ulx201wY) <br/>
 * [Flash swaps v2 (video)](https://www.youtube.com/watch?v=MxTgk-kvtRM) <br/>
