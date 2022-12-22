@@ -45,7 +45,7 @@
 * [Exploitation](#strategies)
 * [Inspection Tools](#inspect)
 * [Mev Job Boards](#board)
-* [Communities](#communities)
+* [Communities & Other Resources](#communities)
 
 
 ## 🙅‍♂️ <a name="cfmms"></a>CFMMs (CPMMs) 🙅‍♂️
@@ -137,9 +137,9 @@
 * [**Flashbots Mev Job Board**](https://github.com/flashbots/mev-job-board) <br/>
 
 
-## 👨‍👨‍👦‍👦 <a name="communities"></a>Communities 👨‍👨‍👦‍👦
+## 👨‍👨‍👦‍👦 <a name="communities"></a>Communities & Other Resource Lists 👨‍👨‍👦‍👦
 * [Flashbots Discord](https://discord.gg/flashbots) <br/>
-
+* [Quantifying Total Extracted MEV - A list of Resources](https://collective.flashbots.net/t/quantifying-total-extracted-mev-a-list-of-resources/936?u=alex) <br/>
 
 ## Contributions
 If there are any resources you think should be included feel free to PR directly to `main`. This repository aims to hold the most up to date research in the space, and will frequently add links as new resources become available so contributions of new research in the space is encouraged.
