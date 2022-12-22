@@ -39,6 +39,7 @@
 * [Research](#research)
 * [Full Texts](#texts)
 * [Articles](#articles)
+* [News Letters](#newsletter)
 * [Solvers](#solvers)
 * [Solver Bindings](#bindings)
 * [Exploitation](#strategies)
@@ -100,6 +101,8 @@
 * [Ethereum is a Dark Forest](https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest) <br/>
 * [Escaping The Dark Forest](https://samczsun.com/escaping-the-dark-forest/) <br/>
 
+## 📰 <a name="newsletter"></a>Newsletters  📰
+* [noxx - Low Level EVM Deep Dives](https://noxx.substack.com/) <br/>
 
 ## 😈 <a name="solvers"></a>Solvers 😈
 * [JuMP (julia)](https://mlubin.github.io/pdf/jump-sirev.pdf) <br/>
