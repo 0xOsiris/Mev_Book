@@ -45,7 +45,7 @@
 * [Exploitation](#strategies)
 * [Inspection Tools](#inspect)
 * [Mev Job Boards](#board)
-* [Communities & Other Resources](#communities)
+* [Communities](#communities)
 * [Additional Mev Resource Lists](#additional)
 
 
@@ -138,12 +138,13 @@
 * [**Flashbots Mev Job Board**](https://github.com/flashbots/mev-job-board) <br/>
 
 
-## 👨‍👨‍👦‍👦 <a name="communities"></a>Communities & Other Resource Lists 👨‍👨‍👦‍👦
+## 👨‍👨‍👦‍👦 <a name="communities"></a>Communities 👨‍👨‍👦‍👦
 * [Flashbots Discord](https://discord.gg/flashbots) <br/>
-* [Quantifying Total Extracted MEV - A list of Resources](https://collective.flashbots.net/t/quantifying-total-extracted-mev-a-list-of-resources/936?u=alex) <br/>
+
 
 ## 🧙‍♂️ <a name="additional"></a>Additional Mev Resource Lists 🧙‍♂️
 * [Awesome Mev Resources](https://github.com/0xalpharush/awesome-MEV-resources) <br/>
+* [Quantifying Total Extracted MEV - A list of Resources](https://collective.flashbots.net/t/quantifying-total-extracted-mev-a-list-of-resources/936?u=alex) <br/>
 * [Mev Wiki](https://www.mev.wiki/resource-list) <br/>
 
 ## Contributions
