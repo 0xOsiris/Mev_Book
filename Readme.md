@@ -72,7 +72,7 @@
 * [Simple Arbitrage - Flashbots Arbitrage Basic Template Typescript/Solidity (source)](https://github.com/flashbots/simple-arbitrage) <br/>
 * [CFMM Routing - Convex Optimization Full Example Python (source)](https://github.com/angeris/cfmm-routing-code) 🛠 <br/>
 * [Off-Chain Uniswap V3 Math - Rust (In development)](https://github.com/0xKitsune/uniswap_v3_math)  <br/>
-
+* [Cosmos - Basic Arbitrage Bot](https://github.com/skip-mev/bots)  <br/>
 
 
 ## 👀 <a name="research"></a>Research 👀
@@ -92,6 +92,8 @@
 * [SMT Based Models - First Order Logical Embeddings in ANNs](https://arxiv.org/pdf/2111.13110.pdf) <br/>
 * [Neural Bellman-Ford Networks - Neural Network Framework for Link Prediction](https://arxiv.org/pdf/2106.06935.pdf) <br/>
 * [Interesting Recursive Approach to Bellman Ford](https://core.ac.uk/download/pdf/82538817.pdf) <br/>
+* [A general framework for impermanent loss](https://arxiv.org/pdf/2203.11352.pdf) <br/>
+
 
 ## 📚 <a name="texts"></a>Full Texts 📚
 * [Convex Optimization Book - Stanford](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) 📚 <br/>
