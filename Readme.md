@@ -108,6 +108,7 @@
 
 ## 📰 <a name="newsletter"></a>Newsletters  📰
 * [noxx - Low Level EVM Deep Dives](https://noxx.substack.com/) <br/>
+* [DeGatchi - Security ~ Web3 ~ Mev](https://degatchi.com/articlesm/) <br/>
 
 ## 😈 <a name="solvers"></a>Solvers 😈
 * [JuMP (julia)](https://mlubin.github.io/pdf/jump-sirev.pdf) <br/>
