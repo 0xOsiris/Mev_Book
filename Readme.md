@@ -94,7 +94,7 @@
 * [Interesting Recursive Approach to Bellman Ford](https://core.ac.uk/download/pdf/82538817.pdf) <br/>
 * [A general framework for impermanent loss](https://arxiv.org/pdf/2203.11352.pdf) <br/>
 * [Frontrunner Jones and The Raiders of the Dark Forest](https://arxiv.org/pdf/2102.03347.pdf) <br/>
-
+* [Mitigating Frontrunning, Transaction Reordering and Consensus Instability](https://arxiv.org/pdf/2106.07371.pdf) <br/>
 
 
 ## 📚 <a name="texts"></a>Full Texts 📚
