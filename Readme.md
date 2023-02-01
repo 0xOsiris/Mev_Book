@@ -35,7 +35,7 @@
 # 📘 Appendix 📘
 * [CFMMs](#cfmms)
 * [Relayers](#relayers)
-* [Tools](#tools)
+* [Repositories](#tools)
 * [Research](#research)
 * [Full Texts](#texts)
 * [Articles](#articles)
@@ -66,13 +66,14 @@
 * [MEV-Boost (Flashbots Relayer) (source)](https://github.com/flashbots/mev-boost) <br/>
 
 
-## 🛠 <a name="tools"></a>Tools 🛠
+## 🛠 <a name="tools"></a>Repositories 🛠
 * [V2/V3 Fixed Point Math Library Pricing/Simulation/Quoting Solidity (source)](https://github.com/0xOsiris/cfmm-math-libraries) <br/>
 * [`cfmms-rs` - A Swiss Army Knife of MEV (source)](https://github.com/0xKitsune/pair_sync) 🛠 <br/>
 * [Simple Arbitrage - Flashbots Arbitrage Basic Template Typescript/Solidity (source)](https://github.com/flashbots/simple-arbitrage) <br/>
 * [CFMM Routing - Convex Optimization Full Example Python (source)](https://github.com/angeris/cfmm-routing-code) 🛠 <br/>
 * [Off-Chain Uniswap V3 Math - Rust (In development)](https://github.com/0xKitsune/uniswap_v3_math)  <br/>
 * [Cosmos - Basic Arbitrage Bot](https://github.com/skip-mev/bots)  <br/>
+* [Submarine Transactions](https://github.com/lorenzb/libsubmarine)  <br/>
 
 
 ## 👀 <a name="research"></a>Research 👀
