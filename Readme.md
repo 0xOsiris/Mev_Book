@@ -74,7 +74,7 @@
 * [Simple Arbitrage - Flashbots Arbitrage Basic Template Typescript/Solidity (source)](https://github.com/flashbots/simple-arbitrage) <br/>
 * [CFMM Routing - Convex Optimization Full Example Python (source)](https://github.com/angeris/cfmm-routing-code) 🛠 <br/>
 * [V2/V3 Fixed Point Math Library Pricing/Simulation/Quoting Solidity (source)](https://github.com/0xOsiris/cfmm-math-libraries) <br/>
-* [`cfmms-rs` - A Swiss Army Knife of MEV (source)](https://github.com/0xKitsune/cfmms-rs) <br/>
+* [cfmms-rs - A modular framework for syncing v2/v3 pools (source)](https://github.com/0xKitsune/cfmms-rs) <br/>
 * [Off-Chain Uniswap V3 Math - Rust (source)](https://github.com/0xKitsune/uniswap_v3_math)  <br/>
 * [Cosmos - Basic Arbitrage Bot (source)](https://github.com/skip-mev/bots)  <br/>
 * [Submarine Transactions](https://github.com/lorenzb/libsubmarine)  <br/>
