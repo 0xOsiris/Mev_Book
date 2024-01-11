@@ -142,6 +142,7 @@
 * [Ethereum Transaction Viewer](https://tx.eth.samczsun.com/) by [@samczsun](https://github.com/samczsun/) <br/>
 * [BlockSec Phalcon Transaction Explorer](https://phalcon.blocksec.com/) <br/>
 * [Tenderly](https://tenderly.co) <br/>
+* [Sentio](https://app.sentio.xyz/explorer) <br/>
 
 
 ## 💂‍♂️ <a name="board"></a>Job Boards 💂‍♂️
